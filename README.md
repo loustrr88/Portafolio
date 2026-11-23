@@ -2,7 +2,7 @@
 
 Portafolio digital bilingüe (**EN / ES**) de Patricia Alvarado, futura ingeniera aeronáutica. Reúne los proyectos de las 10 semanas del curso de Inteligencia Artificial con su descripción, código, resultados y evidencias. Su identidad visual es un **plan de vuelo**: un holograma de rayos X (un avión 3D translúcido hecho a mano en `<canvas>`, sin librerías 3D) aparece, sale de la pantalla y revela el nombre dibujado trazo a trazo. Después, cada sección es un *waypoint* de la ruta y un altímetro lateral sigue el scroll.
 
-**🔗 Sitio desplegado:** https://TODO-tu-proyecto.vercel.app  <!-- TODO: pega aquí tu URL de Vercel -->
+**🔗 Sitio desplegado:** https://portafoliolu.vercel.app/  <!-- TODO: pega aquí tu URL de Vercel -->
 
 ![Captura del portafolio](docs/screenshot-hero.png)
 
