@@ -4,7 +4,7 @@ Portafolio digital bilingüe (**EN / ES**) de Patricia Alvarado, futura ingenier
 
 **🔗 Sitio desplegado:** https://portafoliolu.vercel.app/  <!-- TODO: pega aquí tu URL de Vercel -->
 
-Captura del portafolio](<img width="1835" height="812" alt="image" src="https://github.com/user-attachments/assets/39c1d7bb-7361-48c2-96ac-54d3680894b5" />
+Captura del portafolio (<img width="1835" height="812" alt="image" src="https://github.com/user-attachments/assets/39c1d7bb-7361-48c2-96ac-54d3680894b5" />
 )
 
 | Habilidades como anatomía del avión | Móvil |
