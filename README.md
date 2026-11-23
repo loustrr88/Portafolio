@@ -11,7 +11,7 @@ Captura del portafolio <img width="1835" height="812" alt="image" src="https://g
 | --- | --- |
 | Habilidades <img width="1852" height="886" alt="image" src="https://github.com/user-attachments/assets/964a2b61-2c7d-4e5c-ae80-a08a877926a3" />
 | <img width="439" height="800" alt="image" src="https://github.com/user-attachments/assets/723b9144-e8ba-4f08-ab8f-744dd79236b6" />
-="Vista móvil" /> |
+Vista móvil 
 
 ---
 
